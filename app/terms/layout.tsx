@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Inffluapp",
-  description: "Inffluapp",
+  title: "Influapp",
+  description: "Influapp",
 };
 
 export default function TermsLayout({
@@ -28,7 +28,7 @@ export default function TermsLayout({
     <main className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col items-center w-full custom-bg`}>
       {children}
       <div className="w-full px-8 py-4 border-t">
-        <p>All rights reserved Inffluapp {new Date().getFullYear()}</p>
+        <p>All rights reserved Influapp {new Date().getFullYear()}</p>
       </div>
     </main>
   );

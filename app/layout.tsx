@@ -4,8 +4,8 @@ import "./draft.css";
 
 
 export const metadata: Metadata = {
-  title: "Inffluapp",
-  description: "Inffluapp",
+  title: "Influapp",
+  description: "Influapp",
 };
 
 export default function RootLayout({

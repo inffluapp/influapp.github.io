@@ -13,14 +13,14 @@ export default function Terms() {
 
       <div className="flex-1 w-full  px-8 py-4">
 
-        <p className="mb-6">Welcome to Inffluapp!</p>
+        <p className="mb-6">Welcome to Influapp!</p>
         <p className="mb-6">By accessing or using our app, you agree to the following terms and conditions ("Terms"). Please read them carefully before using the app. If you do not agree to these Terms, you must not use the app.</p>
 
         <p className="font-bold mb-4">1. Definitions</p>
         <ul className="list-disc pl-6 mb-6">
-          <li><span>"App"</span> refers to Inffluapp, available on the App Store and Google Play Store.</li>   
+          <li><span>"App"</span> refers to Influapp, available on the App Store and Google Play Store.</li>   
           <li><span>"User"</span> refers to anyone who accesses or uses the app, including influencers and businesses.</li> 
-          <li><span>"We", "us", and "our"</span> refer to Inffluapp and its operators.</li>
+          <li><span>"We", "us", and "our"</span> refer to Influapp and its operators.</li>
         </ul>
 
         <p className="font-bold mb-4">2. Eligibility</p>
@@ -91,9 +91,9 @@ export default function Terms() {
         <p className="font-bold mb-4">8. Intellectual Property   </p>
 
         <ul className="list-disc pl-6 mb-6">
-          <li>The app, including its design, content, and functionality, is owned by Inffluapp and protected by intellectual property laws.</li>   
+          <li>The app, including its design, content, and functionality, is owned by Influapp and protected by intellectual property laws.</li>   
 
-          <li>Users retain ownership of content they create but grant Inffluapp a license to use it for operational purposes (e.g., campaign verification).   </li>
+          <li>Users retain ownership of content they create but grant Influapp a license to use it for operational purposes (e.g., campaign verification).   </li>
 
         </ul>    
 
@@ -142,7 +142,7 @@ export default function Terms() {
 
         <p className="mb-6">Email: hola@influ.app  </p>
 
-        <p className="mb-6">By using Inffluapp, you acknowledge that you have read, understood, and agree to these Terms and Conditions. </p>
+        <p className="mb-6">By using Influapp, you acknowledge that you have read, understood, and agree to these Terms and Conditions. </p>
       </div>
     </>
   );
