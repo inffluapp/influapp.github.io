@@ -9,7 +9,7 @@ export default function Header({
   return (
     <div className="w-full px-8 py-4 border-b">
       <h1 className="font-bold" style={{color: '#FF2222', fontSize: 40}}>
-        Inffluapp
+        Influapp
       </h1>
       <h2 className="font-bold">{title}</h2>
       {!hideDate && (

@@ -14,7 +14,7 @@ export default function DeleteAccount() {
 
     const subject = "Solicitud de eliminación de cuenta";
     const message = `Instagram: ${formJson.instagram}. \n Número de teléfono: ${formJson.number}.`;
-    const email = "hola@infflu.app";
+    const email = "hola@influapp.com";
     const href = "mailto:" + email + "?subject=" + subject + "&body=" + message;
     window.open(href)
   }

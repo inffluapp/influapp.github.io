@@ -12,7 +12,7 @@ export default function Home() {
           <div className="container">
 
             <header id="header">
-              <h1>Inffluapp</h1>
+              <h1>Influapp</h1>
             </header>
 
             <div className="main-content">
@@ -64,7 +64,7 @@ export default function Home() {
             <footer id="footer">
 
               <div className="copyright">
-                <p>Copyright &copy; <a href="#" target="_blank">Inffluapp</a> 2024. <a
+                <p>Copyright &copy; <a href="#" target="_blank">Influapp</a> 2024. <a
                     href="https://www.instagram.com/inffluapp" target="_blank" style={{color: '#0043ee'}}> <b> <br /> <u>
                         Visita instagram.com/inffluapp
                       </u></b> </a></p>

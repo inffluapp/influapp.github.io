@@ -12,7 +12,7 @@ export default function Terms() {
       <Header title="Privacy Policy" />
 
       <div className="flex-1 w-full  px-8 py-4">
-        <p className="mb-6">Inffluapp is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our app, Inffluapp, available on the Google Play Store and App Store. By using our app, you agree to the practices described in this Privacy Policy.   </p>
+        <p className="mb-6">Influapp is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our app, Influapp, available on the Google Play Store and App Store. By using our app, you agree to the practices described in this Privacy Policy.   </p>
 
         <p className="font-bold mb-4">1. Information We Collect </p>
 
@@ -75,7 +75,7 @@ export default function Terms() {
         <ul className="list-disc pl-6 mb-6">
           <li>Access and Update: You can view and update your profile information in the app.   </li>
 
-          <li>Delete Account: You can request the deletion of your account and associated data by contacting us at hola@infflu.app </li>
+          <li>Delete Account: You can request the deletion of your account and associated data by contacting us at hola@influapp.com </li>
 
         </ul>
 
@@ -109,11 +109,11 @@ export default function Terms() {
 
         <p className="mb-6">If you have any questions or concerns about this Privacy Policy, please reach out to us:</p>   
 
-        <p className="mb-6">Email:  hola@infflu.app </p>
+        <p className="mb-6">Email:  hola@influapp.com </p>
 
         
 
-        <p className="mb-6">By using Inffluapp, you acknowledge that you have read and understood this Privacy Policy and consent to the practices described herein. </p>
+        <p className="mb-6">By using Influapp, you acknowledge that you have read and understood this Privacy Policy and consent to the practices described herein. </p>
       </div>
     </>
   );
