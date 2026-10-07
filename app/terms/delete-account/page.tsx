@@ -1,6 +1,7 @@
 'use client';
 
 import Header from "../components/Header";
+import LegacyRedirect from "../components/LegacyRedirect";
 
 export default function DeleteAccount() {
 
@@ -21,6 +22,7 @@ export default function DeleteAccount() {
 
   return (
     <>
+      <LegacyRedirect to="https://www.influapp.com/eliminar-cuenta" />
       <Header title="Borrar cuenta" hideDate/>
 
       <div className="flex-1 w-full px-8 py-4">

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Header from "./components/Header";
+import LegacyRedirect from "./components/LegacyRedirect";
 
 export const metadata: Metadata = {
   title: "Terms and Conditions",
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
 export default function Terms() {
   return (
     <>
+      <LegacyRedirect to="https://www.influapp.com/terminos" />
       <Header title="Terms and Conditions" />
 
       <div className="flex-1 w-full  px-8 py-4">

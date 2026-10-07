@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Header from "../components/Header";
+import LegacyRedirect from "../components/LegacyRedirect";
 import Accordion from "../components/Accordion";
 import Link from "next/link";
 
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 export default function Support() {
   return (
     <>
+      <LegacyRedirect to="https://www.influapp.com/soporte" />
       <Header title="Soporte" hideDate />
 
       <div className="flex-1 w-full px-8 py-4 ">
