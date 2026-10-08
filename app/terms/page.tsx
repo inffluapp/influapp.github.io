@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function Terms() {
   return (
     <>
-      <LegacyRedirect to="https://www.influapp.com/terminos" />
+      <LegacyRedirect to="https://www.influapp.com/terminos-y-condiciones" />
       <Header title="Terms and Conditions" />
 
       <div className="flex-1 w-full  px-8 py-4">

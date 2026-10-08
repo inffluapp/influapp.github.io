@@ -3,10 +3,12 @@
 import React from "react";
 import Link from "next/link";
 import HomeContent from "./terms/components/HomeContent";
+import LegacyRedirect from "./terms/components/LegacyRedirect";
 
 export default function Home() {
   return (
     <div id="body-wrap">
+      <LegacyRedirect to="https://www.influapp.com/pagina-anterior" />
       <div className="row">
         <div className="col-8">
           <div className="container">
